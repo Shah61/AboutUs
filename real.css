@@ -93,11 +93,11 @@ body::after {
 }
 
 .container .card .content .hakim {
-    color: pink;
+    color: green;
 }
 
 .container .card .content .qimi {
-    color: green;
+    color: pink;
 }
 
 .container .card .content p {
